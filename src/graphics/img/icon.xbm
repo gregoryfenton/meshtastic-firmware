@@ -21,7 +21,8 @@ static uint8_t icon_bits[] = {
   0x00, 0x00, 0x00, 0x00, };
 */
 
-// mpowered247.com logo rather than //\
+// mpowered247.com logo rather than the standard Meshtastic logo
+
 #define icon_width 30
 #define icon_height 30
 static uint8_t icon_bits[] = {
